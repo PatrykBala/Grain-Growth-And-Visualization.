@@ -1,0 +1,10 @@
+C:\Users\Patryk\Desktop\Projekt C#\Code\bin\Debug\MultiscaleModelling.exe.config
+C:\Users\Patryk\Desktop\Projekt C#\Code\bin\Debug\MultiscaleModelling.exe
+C:\Users\Patryk\Desktop\Projekt C#\Code\bin\Debug\MultiscaleModelling.pdb
+C:\Users\Patryk\Desktop\Projekt C#\Code\obj\Debug\MultiscaleModelling.csprojAssemblyReference.cache
+C:\Users\Patryk\Desktop\Projekt C#\Code\obj\Debug\MultiscaleModelling.Form1.resources
+C:\Users\Patryk\Desktop\Projekt C#\Code\obj\Debug\MultiscaleModelling.Properties.Resources.resources
+C:\Users\Patryk\Desktop\Projekt C#\Code\obj\Debug\MultiscaleModelling.csproj.GenerateResource.cache
+C:\Users\Patryk\Desktop\Projekt C#\Code\obj\Debug\MultiscaleModelling.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Desktop\Projekt C#\Code\obj\Debug\MultiscaleModelling.exe
+C:\Users\Patryk\Desktop\Projekt C#\Code\obj\Debug\MultiscaleModelling.pdb
