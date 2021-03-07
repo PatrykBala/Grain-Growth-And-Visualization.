@@ -1,1 +1,1 @@
-# MMOpen
+# Multiscale Modelling project.
